@@ -1,4 +1,4 @@
-#Linear Classifiers
+# Linear Classifiers
 
 This repository contains implementation of Perceptron Linear Classifier. The code compares the popular linear classifiers like Logistic Regression, SGD Classifier and variants of SVM.
 
